@@ -1,0 +1,2 @@
+# wpspeed
+Wordpress Project Generator
