@@ -1,9 +1,10 @@
-# wpspeed
-Wordpress Project Generator  
+# swift-cli
+Swift-cli is a helper for the Swift theme
+It can create a new WordPress project with 
+the Swift theme.
 
-step before using wpspeed:  
+step before using swift-cli:  
 - npm install -g .  
 -------------------------------------------
-wpspeed new => will install wordpress, composer, wptheme_starter,...   
-wpspeed clear => use it in the theme folder to clear lock files  
-wpspeed install => install composer & node dependencies  
+swift new => will install wordpress + Swift theme,...     
+swift install => install composer & node dependencies
