@@ -1,5 +1,5 @@
 /*
-Theme Name: Landing
+Theme Name: Swift
 Theme URI: http://landing.local/
 Author: Ksomao
 Author URI: https://wordpress.org/
@@ -16,33 +16,19 @@ Use it to make something cool, have fun, and share what you've learned with othe
 */
 
 //--FONTS
-//@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-//@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@700&display=swap');
+
 
 //**GLOBAL**//
-@import 'reset';
-@import 'global';
+
 
 //**VIEW**//
-@import 'pages/test2';
-@import 'pages/orevwar';
-@import 'pages/manga';
-@import 'pages/test';
-@import 'pages/noel';
-@import 'pages/creation';
-@import 'pages/test';
-@import 'pages/accueil';
-@import 'pages/brut';
-@import 'pages/index';
-@import 'pages/example';
-@import 'pages/about';
-@import 'pages/loader';
+@import 'pages/ok';
+
 
 //**COMPONENTS**//
-@import 'components/button';
+
 
 //**PARTIALS**//
-@import 'partials/menu';
 
 
 
