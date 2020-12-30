@@ -113,23 +113,20 @@ class Swift {
             console.log('unziping wordpress...')
             execSync('unzip latest.zip')
             console.log('downloading composer it may take some time...')
-            exec('curl -sS https://getcomposer.org/installer | php ', (err, sdout) => {
-                console.log('composer.phar added to your project !')
-                execSync('git clone https://github.com/ksomao/swift.git')
-                execSync('cp -r wordpress/* ./')
-                execSync('cp -r swift ./wp-content/themes/')
-                console.log('moving composer file')
-                execSync('mv composer.phar ./wp-content/themes/swift/')
-                console.log('project successfully created ')
-                console.log('removing unused files...')
-                execSync('rm latest.zip')
-                execSync('rm -rf wordpress')
-                execSync('rm -rf swift')
-                console.log('Welcome to swift')
-                console.log('Next step go to theme swift folder : cd ./wp-content/themes/swift/ \n' +
-                    'and run the "swift install" command to start the adventure')
-                process.exit(0)
-            })
+            console.log('composer.phar added to your project !')
+            execSync('git clone https://github.com/ksomao/swift.git')
+            execSync('cp -r wordpress/* ./')
+            execSync('cp -r swift ./wp-content/themes/')
+            console.log('moving composer file')
+            console.log('project successfully created ')
+            console.log('removing unused files...')
+            execSync('rm latest.zip')
+            execSync('rm -rf wordpress')
+            execSync('rm -rf swift')
+            console.log('Welcome to swift')
+            console.log('Next step go to theme swift folder : cd ./wp-content/themes/swift/ \n' +
+                'and run the "swift install" command to start the adventure')
+            process.exit(0)
         } catch (e) {
             console.log("try to 'swift clean', then 'swift new' to reinstall")
         }
@@ -215,7 +212,8 @@ class Swift {
         })
     }
 
-    async test() {}
+    async test() {
+    }
 }
 
 let arguments = process.argv.splice(2)

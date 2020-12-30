@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db0fbc2a-4312-4df6-8eeb-6615de61e741" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/accueil.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/brut.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/creation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/manga.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/noel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/orevwar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/test.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/test2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/pages/about.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/pages/accueil.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/pages/brut.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/pages/creation.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/pages/manga.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/pages/noel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/pages/orevwar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/pages/test.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/pages/test2.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +83,7 @@
       <workItem from="1609234170497" duration="10789000" />
       <workItem from="1609246311290" duration="4917000" />
       <workItem from="1609251667303" duration="6414000" />
-      <workItem from="1609319369689" duration="991000" />
+      <workItem from="1609319369689" duration="1886000" />
     </task>
     <servers />
   </component>
