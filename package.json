@@ -14,6 +14,8 @@
   },
   "dependencies": {
     "mysql": "^2.18.1",
+    "node-downloader-helper": "^1.0.15",
     "prompts": "^2.4.0"
-  }
+  },
+  "devDependencies": {}
 }
